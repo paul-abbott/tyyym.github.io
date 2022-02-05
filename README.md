@@ -1,2 +1,3 @@
-# tyyym.github.io
-studio tyyym
+### About ###
+
+tyyym: website for Paul Abbott Sound Work
