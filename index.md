@@ -1,5 +1,4 @@
-PAUL ABBOTT
-
+PAUL ABBOTT  
 paulxabbott-work@pm.me    
 +32491118236  
 

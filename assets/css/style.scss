@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 /* CUSTOM CSS */
-/* paulabbott.net site */
+/* tyyym.info site */
 
 .testkram{
   color: green !important;
@@ -20,6 +20,8 @@
     font-size: 15px;
     line-height: 1.2;
     background: white; /* porto pink #FFD1CE; */
+    /*dark-theme*/
+    background: #404040 !important;
 }
 
 .markdown-body a, body a{
