@@ -6,28 +6,57 @@
 /* CUSTOM CSS */
 /* tyyym.info site */
 
+/* variables */
+/* color scheme */
+:root {
+
+--main-bg-color: #404040;
+--main-txt-color: lightgrey;
+/* --main-txt-hover: /* mediumseagreen; NONE */
+/* --main-txt-hover-decoration: underline; */
+/* --txt-underline-up-col: grey; */
+--main-txt-size: 18px;
+--main-line-height: 1.3;
+--max-width: 800px; /* 900 */
+/* --inset-width: 600px; /* 750 */
+}
+
 .testkram{
   color: green !important;
 }
 
 /* main-container */
 .container-lg{
-    max-width: 800px;
-    background: white; /* porto pink #FFD1CE; */
+    max-width: var(--max-width);
+    background: var(--main-bg-color) !important;
 }
 
 .markdown-body, body{
-    font-size: 15px;
-    line-height: 1.2;
-    background: white; 
-    /* dark //  background: #404040 !important; */
-
+    font-size: var(--main-txt-size);
+    line-height: var(--main-line-height);
+    background: var(--main-bg-color) !important;
+    color: var(--main-txt-color) !important;
 }
 
 .markdown-body a, body a{
-    color: black; /*mediumblue;*/
-    text-decoration: underline;
+    color: var(--main-txt-color) !important;
+    text-decoration: underline !important;
+    text-decoration-style: dotted !important;
+    text-decoration-color: var(--txt-underline-up-col) !important;
 }
+
+.markdown-body a:hover{
+  text-decoration: var(--main-txt-hover-decoration) !important;
+  color: var(--main-txt-hover) !important;
+}
+
+.markdown-body p, p, details p, details a{
+    margin-bottom: 4px;
+    font-weight: 200;
+    color: var(--main-txt-color) !important;
+}
+
+/* rest of pa.net site css not modified below */
 
 /*details>details wrapper */
 #details-wrap, #details-wrap:hover{
