@@ -1,5 +1,5 @@
 PAUL ABBOTT  
-paulxabbott-work@pm.me    
+contact@tyyym.info   
 +32491118236  
 
 ## Independent sound design and audio post production for film and artist projects.
