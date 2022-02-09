@@ -1,5 +1,5 @@
 PAUL ABBOTT  
-paulxabbott-work@pm.me    
+contact@tyyym.info   
 +32491118236  
 
 ## Independent sound design and audio post production for film and artist projects.
@@ -12,7 +12,7 @@ With a broad [background](http://www.paulabbott.net) of experience in experiment
 
 __Keira Greene__   
 [The Hide](#), forthcoming  
-5.1 Surround. Sound recording, creation, editing, 5.1 mixing.  
+5.1 Surround. Sound recording, creation, editing, mixing.  
 [Folds](https://lux.org.uk/work/folds), 2020  
 Stereo. Sound design, mixing.  
 [Eustatic Drift](https://lux.org.uk/work/eustatic-drift), 2018  
@@ -20,4 +20,4 @@ Stereo. Sound recording, creation, editing, mixing.
 
 __Rebecca Jane Arthur__  
 [Island Flyer](https://elephy.org/works/island-flyer-a-postcard-from-the-isle-of-wight?profile=rebecca-jane-arthur), 2021  
-5.1 Surround. Audio restoration, remixing.  
+2.0 Stereo. Audio restoration, remixing.  
