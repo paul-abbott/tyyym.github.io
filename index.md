@@ -8,7 +8,7 @@ paulxabbott-work@pm.me
 
 With a broad [background](http://www.paulabbott.net) of experience in experimental and improvised music, drum kit performance and algorithmic composition, experimental film, artists moving image and live performance.
 
-#### Films & Projects
+#### Recent Films & Projects
 
 __Keira Greene__   
 [The Hide](#), forthcoming  
