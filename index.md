@@ -10,6 +10,10 @@ With a broad [background](http://www.paulabbott.net) of experience in experiment
 
 #### Recent Films & Projects
 
+__Anna Barham__
+[Seasferic](https://whitstablebiennale.com/project/seasferic/), 2022  
+Live broadcast performance for underwater speaker & hydrophones: technical, planning and performance assistance. 
+
 __Keira Greene__   
 [The Hide](#), forthcoming  
 5.1 Surround. Sound recording, creation, editing, mixing.  
