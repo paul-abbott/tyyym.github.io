@@ -1,17 +1,18 @@
-PAUL ABBOTT  
 contact@tyyym.info   
 +32491118236  
 
-## Independent sound design and audio post production for film and artist projects.
-
-## Composition, sound creation & design, programming, audio restoration, editing, mixing. Technical & concept advice.
+## Independent sound design and audio post production for film and artist projects. Composition, sound creation & design, programming, audio restoration, editing, mixing. Technical & concept advice.
 
 With a broad [background](http://www.paulabbott.net) of experience in experimental film, artists moving image, live performance, experimental and improvised music, electroacoustic music, drum kit performance and algorithmic composition.
 
-#### Recent Films & Projects
+#### Recent Projects
+
+__Laure Prouvost__
+[Above Front Tears Oui Float](https://www.nasjonalmuseet.no/en/exhibitions-and-events/national-museum/exhibitions/2022/laure-prouvost/), The National Museum, Oslo, 2022  
+4.0 channel sound work for installation. Sound creation, edit, mix.  
 
 __Anna Barham__  
-[Seasferic](https://whitstablebiennale.com/project/seasferic/), 2022  
+[Seasferic](https://whitstablebiennale.com/project/seasferic/), Whitstable Biennale, 2022  
 Live broadcast performance for underwater speaker & hydrophones: technical, planning and performance assistance.
 
 __Keira Greene__   
