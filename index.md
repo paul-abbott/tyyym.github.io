@@ -1,9 +1,9 @@
 contact@tyyym.info   
 <!--+32491118236 !-->
 
-## Independent sound design and audio post production for film and artist projects. Composition, sound creation & design, programming, audio restoration, editing, mixing. Technical & concept advice.
+## Independent sound design and audio post production for moving image and artist projects. Composition, sound creation & design, programming, audio restoration, editing, mixing. Technical & concept advice.
 
-With a broad [background](http://www.paulabbott.net) of experience in experimental film, artists moving image, live performance, experimental and improvised music, electroacoustic music, drum kit performance and algorithmic composition.
+With a broad background of experience in experimental film, artists moving image, live performance, experimental and improvised music, electroacoustic music, drum kit performance and algorithmic composition.
 
 #### Recent Projects
 
