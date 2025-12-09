@@ -26,7 +26,7 @@ __Anna Barham__
 Live broadcast performance for underwater speaker & hydrophones: technical, planning and performance assistance.
 
 __Rebecca Jane Arthur__  
-Hit Him on the Head with a Hard, Heavy Hammer, 2023
-5.1 Surround. Sound recording, creation, editing, mixing.
-Island Flyer, 2021  
+[Hit Him on the Head with a Hard, Heavy Hammer](#), 2023  
+5.1 Surround. Sound recording, creation, editing, mixing.  
+[Island Flyer](), 2021  
 2.0 Stereo. Audio restoration, remixing.  
