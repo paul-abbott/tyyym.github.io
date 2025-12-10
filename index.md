@@ -5,11 +5,13 @@ contact.tyyym@pm.me
 
 With a broad background of experience in experimental film, artists moving image, live performance, experimental and improvised music, electroacoustic music, drum kit performance and algorithmic composition.
 
-#### Recent Projects
+#### Selected Projects
 
 __Keira Greene__  
 [Mathair](https://keiragreene.com/film-index/mathair), 2024  
-5.1 Surround. Sound recording, creation, editing, mixing.  
+5.1 Surround. Sound recording, creation, editing, mixing.
+[Examples (Soundcloud)](https://soundcloud.com/tyyym/sets/keira-greene-mathair-2024-audio-extracts)
+
 [The Hide](https://lux.org.uk/work/the-hide/), 2022  
 5.1 Surround. Sound recording, creation, editing, mixing.  
 [Folds](https://lux.org.uk/work/folds), 2020  
@@ -29,4 +31,6 @@ __Rebecca Jane Arthur__
 [Hit Him on the Head with a Hard, Heavy Hammer](#), 2023  
 5.1 Surround. Sound recording, creation, editing, mixing.  
 [Island Flyer](), 2021  
-2.0 Stereo. Audio restoration, remixing.  
+2.0 Stereo. Audio restoration, remixing.
+
+<!-- __[Projects & Examples](http://tyyym.info/portfolio)__ !-->
