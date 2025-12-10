@@ -36,3 +36,5 @@ __Rebecca Jane Arthur__
 2.0 Stereo. Audio restoration, remixing.
 
 <!-- __[Projects & Examples](http://tyyym.info/portfolio)__ !-->
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A2156287766&color=%23141414&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tyyym" title="tyyym" target="_blank" style="color: #cccccc; text-decoration: none;">tyyym</a> · <a href="https://soundcloud.com/tyyym/sets/tyyym-examples" title="tyyym examples" target="_blank" style="color: #cccccc; text-decoration: none;">tyyym examples</a></div>
