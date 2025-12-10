@@ -14,6 +14,7 @@
 --main-txt-color: lightgrey;
 --main-txt-hover: lightgrey /* mediumseagreen; */
 --main-txt-a-hover-decoration: underline;
+--main-txt-a-hover-color: mediumseagreen;
 --main-txt-a-hover-decoration-style: solid; /* alt = dotted */
 --main-txt-hover-decoration: underline;
 --main-txt-hover-decoration-style: solid;
@@ -57,7 +58,7 @@
 .markdown-body a:hover{
   text-decoration: var(--main-txt-a-hover-decoration) !important;
   text-decoration-style: var(--main-txt-a-hover-decoration-style) !important;
-  color: var(--main-txt-hover) !important;
+  color: var(--main-txt-a-hover-color) !important;
 }
 
 .markdown-body p, p, details p, details a, p strong{
