@@ -35,5 +35,4 @@ __Rebecca Jane Arthur__
 ## Contact
 
 contact.tyyym@pm.me
-<!--+32491118236 !-->
-<!-- socials !-->
+[linktr.ee/tyyym___](https://linktr.ee/tyyym___)
