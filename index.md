@@ -6,7 +6,7 @@ contact.tyyym@pm.me
 With a broad background of experience in experimental film, artists moving image, live performance, experimental and improvised music, electroacoustic music, drum kit performance and algorithmic composition.
 
 #### Selected Projects
-[playlist](http://tyyym.info/examples/playlist)
+[playlist](http://tyyym.info/examples/examples)
   
 __Keira Greene__  
 [Mathair](https://keiragreene.com/film-index/mathair), 2024  
