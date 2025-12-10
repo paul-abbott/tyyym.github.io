@@ -1,11 +1,9 @@
-contact.tyyym@pm.me
-<!--+32491118236 !-->
-
-## Independent sound design and audio post production for moving image and artist projects. Composition, sound creation & design, programming, audio restoration, editing, mixing. Technical & concept advice.
+Independent sound design and audio post production for moving image and artist projects. Composition, sound creation & design, programming, audio restoration, editing, mixing. Technical & concept advice.
 
 With a broad background of experience in experimental film, artists moving image, live performance, experimental and improvised music, electroacoustic music, drum kit performance and algorithmic composition.
 
-#### Selected Projects
+## Selected Projects   
+
 [playlist](http://tyyym.info/examples)
   
 __Keira Greene__  
@@ -33,3 +31,9 @@ __Rebecca Jane Arthur__
 5.1 Surround. Sound recording, creation, editing, mixing.  
 [Island Flyer](#), 2021  
 2.0 Stereo. Audio restoration, remixing.
+
+## Contact
+
+contact.tyyym@pm.me
+<!--+32491118236 !-->
+<!-- socials !-->
