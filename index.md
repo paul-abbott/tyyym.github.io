@@ -6,18 +6,17 @@ contact.tyyym@pm.me
 With a broad background of experience in experimental film, artists moving image, live performance, experimental and improvised music, electroacoustic music, drum kit performance and algorithmic composition.
 
 #### Selected Projects
-
+[playlist](http://tyyym.info/examples/playlist)
+  
 __Keira Greene__  
 [Mathair](https://keiragreene.com/film-index/mathair), 2024  
-5.1 Surround. Sound recording, creation, editing, mixing. [(listen)](https://soundcloud.com/tyyym/sets/keira-greene-mathair-2024-audio-extracts)  
-
+5.1 Surround. Sound recording, creation, editing, mixing. [(listen)](https://soundcloud.com/tyyym/sets/keira-greene-mathair-2024-audio-extracts)<br>
 [The Hide](https://lux.org.uk/work/the-hide/), 2022  
 5.1 Surround. Sound recording, creation, editing, mixing.
-[(listen)](https://soundcloud.com/tyyym/sets/keira-greene-mathair-2024-audio-extracts)  
-
+[(listen)](https://soundcloud.com/tyyym/sets/keira-greene-mathair-2024-audio-extracts)<br>
 [Folds](https://lux.org.uk/work/folds), 2020  
 2.0 Stereo. Sound design, mixing. 
-[(listen)](https://soundcloud.com/tyyym/keira-greene-folds-2021-extract)  
+[(listen)](https://soundcloud.com/tyyym/keira-greene-folds-2021-extract)<br>
   
 __Laure Prouvost__  
 [Above Front Tears Oui Float](https://www.nasjonalmuseet.no/en/exhibitions-and-events/national-museum/exhibitions/2022/laure-prouvost/), The National Museum, Oslo, 2022  
@@ -34,8 +33,3 @@ __Rebecca Jane Arthur__
 5.1 Surround. Sound recording, creation, editing, mixing.  
 [Island Flyer](#), 2021  
 2.0 Stereo. Audio restoration, remixing.
-
-<!-- __[Projects & Examples](http://tyyym.info/portfolio)__ !-->
-
-<!-- soundcloud examples embed !-->
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A2156287766&color=%23141414&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tyyym" title="tyyym" target="_blank" style="color: #cccccc; text-decoration: none;">tyyym</a> · <a href="https://soundcloud.com/tyyym/sets/tyyym-examples" title="tyyym examples" target="_blank" style="color: #cccccc; text-decoration: none;">tyyym examples</a></div>
