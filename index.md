@@ -18,11 +18,6 @@ __Keira Greene__
 [Folds](https://lux.org.uk/work/folds), 2020  
 2.0 Stereo. Sound design, mixing. 
 [(listen)](https://soundcloud.com/tyyym/keira-greene-folds-2021-extract)  
-
-<!-- [Eustatic Drift](https://lux.org.uk/work/eustatic-drift), 2018  
-2.0 Stereo. (remaster)  
-[(listen)](#)  
-!-->
   
 __Laure Prouvost__  
 [Above Front Tears Oui Float](https://www.nasjonalmuseet.no/en/exhibitions-and-events/national-museum/exhibitions/2022/laure-prouvost/), The National Museum, Oslo, 2022  
@@ -37,7 +32,6 @@ Live broadcast performance for underwater speaker & hydrophones: technical, plan
 __Rebecca Jane Arthur__  
 [Hit Him on the Head with a Hard, Heavy Hammer](#), 2023  
 5.1 Surround. Sound recording, creation, editing, mixing.  
-
 [Island Flyer](#), 2021  
 2.0 Stereo. Audio restoration, remixing.
 
