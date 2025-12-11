@@ -35,5 +35,6 @@ __Rebecca Jane Arthur__
 ## Contact
 
 contact.tyyym@pm.me  
+[instagram](https://www.instagram.com/tyyym___/)  
 [links](https://linktr.ee/tyyym___)
 
