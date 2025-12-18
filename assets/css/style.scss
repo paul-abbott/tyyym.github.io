@@ -1,7 +1,8 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import 'jekyll-theme-minimal';
+
 
 /* CUSTOM CSS */
 /* tyyym.info site */
@@ -120,7 +121,8 @@
 }
 
 /* date block */
-.markdown-body code, code,{
+.markdown-body code,
+code {
     color: black;
 }
 /* invisible block */
@@ -155,17 +157,12 @@ details > summary::-webkit-details-marker {
 /* when hovering over extra content line */
 details :hover,
 details a:hover,
-details .strong:hover
-{
-    /* color: green !important; */
-    /* text-decoration: underline; */
-    /* background-color: lightgrey; */
+details .strong:hover {
+    color: inherit;
 }
 
-details open{
-    /*
-    background: white;
-    */
+details[open] {
+    background: inherit;
 }
 
 /*details */
@@ -198,8 +195,7 @@ sup:hover{
 #bs-player,
 .markdown-body #bs-player,
 #bs-player:hover,
-.markdown-body #bs-player:hover,
-{
+.markdown-body #bs-player:hover {
     max-width: 600px;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
