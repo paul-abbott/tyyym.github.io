@@ -9,7 +9,8 @@ With a broad background of experience in experimental film, artists moving image
 
 __Keira Greene__  
 [Mathair](https://keiragreene.com/film-index/mathair), 2024  
-5.1 Surround. Sound recording, creation, editing, mixing. [(listen)](https://soundcloud.com/tyyym/sets/keira-greene-mathair-2024-audio-extracts)
+5.1 Surround. Sound recording, creation, editing, mixing.
+[(listen)](https://soundcloud.com/tyyym/sets/keira-greene-mathair-2024-audio-extracts)
 
 [The Hide](https://lux.org.uk/work/the-hide/), 2022  
 5.1 Surround. Sound recording, creation, editing, mixing.
@@ -20,7 +21,7 @@ __Keira Greene__
 [(listen)](#)  
 
 [Eustatic Drift](https://lux.org.uk/work/eustatic-drift), 2018  
-2.0 Stereo. Sound recording, creation, editing, mixing.  
+2.0 Stereo. Sound recording, creation, editing, mixing.
 [(listen)](#)  
 
 __Laure Prouvost__  
