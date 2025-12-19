@@ -1,9 +1,1 @@
-## Examples
-
-Extracts, examples, previews (private, do not share links)
-
-[Keira Greene, Mathair, 2024 (Extracts)](https://vimeo.com/showcase/12015877?share=copy&fl=sc&fe=fs)  
-[Keira Greene, The Hide, 2022 (Extracts)](https://vimeo.com/showcase/12015855?fl=so&fe=fs)
-[Anna Barham, Seasferic, 2022 (Extract)](https://soundcloud.com/tyyym/anna-barham-seasferic-2022-extract/s-MBfDlwWVCnR?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing&si=0f3364fb95f2463ba73e177d987ed810)  
-[Laure Provost, Above Front Tears Oui Float, 2022](https://soundcloud.com/tyyym/laure-prouvost-above-front-tears-oui-float-2022/s-pMgaTTROAL2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing&si=3256b394e5cb480ab1435bc86135467f)
-
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A2156287766&color=%23141414&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tyyym" title="tyyym" target="_blank" style="color: #cccccc; text-decoration: none;">tyyym</a> · <a href="https://soundcloud.com/tyyym/sets/tyyym-examples" title="tyyym examples" target="_blank" style="color: #cccccc; text-decoration: none;">tyyym examples</a></div>
