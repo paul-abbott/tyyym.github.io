@@ -1,6 +1,7 @@
-Independent sound design and audio post production for moving image and artist projects. Composition, sound creation & design, programming, audio restoration, editing, mixing. Technical & concept advice.
-
+Sound for moving image and artist projects. Sound design, composition, programming, audio restoration, editing, mixing.
+<!-->
 With a broad background of experience in experimental film, artists moving image, live performance, experimental and improvised music, electroacoustic music, drum kit performance and algorithmic composition.
+!-->
 
 ## Selected Projects   
 
@@ -39,6 +40,8 @@ __Rebecca Jane Arthur__
 
 ## Contact
 
-contact.tyyym@pm.me  
+contact.tyyym@pm.me 
+<!-- 
 [instagram](https://www.instagram.com/tyyym___/)  
 [links](https://linktr.ee/tyyym___)
+!-->
