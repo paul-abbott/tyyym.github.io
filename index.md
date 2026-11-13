@@ -1,5 +1,5 @@
 other sounds. sound design, composition, programming, audio restoration, editing, mixing.
-for artists, moving image and others.
+for artists and others.
 
 <!--
 OLD LONG DESCRIPTIONS
