@@ -1,9 +1,19 @@
+other sounds. sound design, composition, programming, audio restoration, editing, mixing.
+for artists, moving image and others.
+
+<!--
+OLD LONG DESCRIPTIONS
+
+V2 ---
 Sound for moving image and artist projects. Sound design, composition, programming, audio restoration, editing, mixing.
-<!-->
+
+V1 --- 
+Sound design and audio post production for moving image and artist projects. Sound creation, restoration, editing, mixing.
+
 With a broad background of experience in experimental film, artists moving image, live performance, experimental and improvised music, electroacoustic music, drum kit performance and algorithmic composition.
 !-->
 
-## Selected Projects   
+## selected Projects   
 
 [playlist](http://tyyym.info/examples)
 
@@ -38,10 +48,9 @@ __Rebecca Jane Arthur__
 [Island Flyer](#), 2021  
 2.0 Stereo. Audio restoration, remixing.
 
-## Contact
+## contact
 
 contact.tyyym@pm.me 
-<!-- 
+
 [instagram](https://www.instagram.com/tyyym___/)  
 [links](https://linktr.ee/tyyym___)
-!-->
